@@ -1,0 +1,82 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 228px;
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 75px;
+}
+.banner{
+    text-align: center;
+    margin: 175 305;
+}
+h1{
+
+width: 862px;
+height: 225px;
+left: 529px;
+top: 205px;
+position: absolute;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+}
+p{
+    position: absolute;
+width: 868px;
+height: 52px;
+left: 526px;
+top: 379px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #727272;
+}
+button{
+    position: absolute;
+width: 180px;
+height: 64px;
+left: 870px;
+top: 463px;
+position: absolute;
+width: 131px;
+height: 23px;
+left: 895px;
+top: 484px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+background-color: #fd6e0a;
+width: 180px;
+height: 64px;
+left: 870px;
+top: 463px;
+}
+img{
+    width: 1440px;
+    height: 700px;
+    left: 175px;
+    top: 569px;
+    position: absolute;
+    background: url(group-three-modern-architects.jpg);
+border-radius: 8px;
+}
